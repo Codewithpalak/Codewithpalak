@@ -1,4 +1,4 @@
-[![MasterHead](https://blog-media.byjusfutureschool.com/bfs-blog/2022/08/03035002/Article-Image-945%C3%97498.jpg)
+[![MasterHead](https://cdn1.vogel.de/BNueWF9WfxZoOJIfpXvTMKXU868=/fit-in/800x0/p7i.vogel.de/wcms/9d/e0/9de0c6f0fcd9f328c533d415a3c4488e/0113286401.jpeg)]
 <h1 align="center">Hi 👋, I'm Codewithpalak</h1>
 <h3 align="center">You have to be ODD,to be number ONE!!</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
